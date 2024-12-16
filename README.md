@@ -11,3 +11,7 @@ Config files for the shell and terminal apps
 
 - [iTerm2](https://iterm2.com)
 - [Warp](https://www.warp.dev)
+
+## Command Line Tools
+
+- [ranger](https://github.com/ranger/ranger) (console file manager)
