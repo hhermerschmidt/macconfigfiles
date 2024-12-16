@@ -1,5 +1,5 @@
 alias ls='eza'
-alias l='eza -lbF --git --icons=auto --no-user --no-permissions'
-alias ll='eza -lbF --git --icons=auto'
-alias la='eza -lbaF --git --color-scale --icons=auto'
+alias l='eza -l --git --no-user --no-permissions'
+alias ll='eza -l --git'
+alias la='eza -la --git --color-scale'
 
