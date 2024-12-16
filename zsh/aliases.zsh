@@ -4,3 +4,5 @@ alias ll='eza -l --git'
 alias la='eza -la --git --color-scale'
 
 alias cd="z"
+
+alias  fvim='vim $(fzf --preview="bat --color=always --theme=OneHalfDark --style=numbers {}")'
