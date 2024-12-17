@@ -23,7 +23,6 @@ Config files for the shell and terminal apps
 - [eza](https://github.com/eza-community/eza) (modern `ls` command)
 - [lsd](https://github.com/lsd-rs/lsd)(next gen `ls` command)
 - [zoxide](https://github.com/ajeetdsouza/zoxide) (smarter `cd` command)
-- [fzf](https://github.com/junegunn/fzf) (fuzzy finder; used by zoxide)
 - [bat](https://github.com/sharkdp/bat) (`cat` with syntax highlighting and Git integration)
 - [fuck](https://github.com/nvbn/thefuck) (corrects typing errors)
 - [broot](https://github.com/Canop/broot) (modern `tree` command)
@@ -36,6 +35,7 @@ Config files for the shell and terminal apps
 
 ### Text Processing
 
+- [ripgrep](https://github.com/BurntSushi/ripgrep) (regex searcher)
 - [delta](https://github.com/dandavison/delta) (modern `diff` command)
 
 ## Text Editor
