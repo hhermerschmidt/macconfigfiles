@@ -38,6 +38,7 @@ Config files for the shell and terminal apps
 - [ripgrep](https://github.com/BurntSushi/ripgrep) (regex searcher)
 - [delta](https://github.com/dandavison/delta) (modern `diff` command)
 - [sd](https://github.com/chmln/sd) (modern `sed`)
+- [jq](https://github.com/jqlang/jq) (modern `json` processor)
 
 ### Version Control
 
