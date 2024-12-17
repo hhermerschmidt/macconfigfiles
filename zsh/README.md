@@ -2,6 +2,19 @@
 
 Z shell
 
+## Oh My ZSH
+
+- [Oh My Zsh](https://ohmyz.sh) is a framework for managing the zsh configuration (via [themes](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes) and [plugins](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins)).
+- With using Oh My Zsh, the `zshrc` file is created automatically.
+
+### Theme
+
+- A zsh theme modifies the prompt (git status, python venv, clock etc.)
+- Special font and color theme may be needed to let the theme render appropriately. These are part of the terminal configuration.
+- Using the [Powerlevel10k](https://github.com/romkatv/powerlevel10k) theme the prompt configuration is done via `~/.p10k.zsh`.
+
+## Config Files Load Order
+
 > Default behavior dictates the following order for ZSH startup files:
 > 
 > - `/etc/zshenv`
