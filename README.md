@@ -46,6 +46,7 @@ Config files for the shell and terminal apps
 ### System Monitoring
 
 - [dust](https://github.com/bootandy/dust) (more intuitive `du`)
+- [duf](https://github.com/muesli/duf) (modern `df`)
 
 ## Text Editor
 
