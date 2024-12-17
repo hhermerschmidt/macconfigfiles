@@ -32,6 +32,8 @@ Config files for the shell and terminal apps
 
 - [atuin](https://github.com/atuinsh/atuin) (magical shell history)
 - [fd](https://github.com/sharkdp/fd) (fast and user-friendly `find`)
+- [fzf](https://github.com/junegunn/fzf) (fuzzy finder; used by zoxide)
+
 
 ## Text Editor
 
