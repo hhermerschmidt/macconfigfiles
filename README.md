@@ -49,6 +49,7 @@ Config files for the shell and terminal apps
 - [duf](https://github.com/muesli/duf) (modern `df`)
 - [bottom](https://github.com/ClementTsang/bottom) (modern system monitor)
 - [glances](https://github.com/nicolargo/glances) (system monitoring tool)
+- [procs](https://github.com/dalance/procs) (modern `ps`)
 
 ## Text Editor
 
