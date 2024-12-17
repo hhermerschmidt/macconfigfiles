@@ -23,6 +23,7 @@ Config files for the shell and terminal apps
 ## Text Editor
 
 - [vim](https://github.com/vim/vim)
+- [zed](https://zed.dev)
 
 ## References
 
