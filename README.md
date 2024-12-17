@@ -41,6 +41,8 @@ Config files for the shell and terminal apps
 ### Getting Help
 
 - [tldr](https://github.com/tldr-pages/tldr) (improved `man` pages)
+- [cheat](https://github.com/cheat/cheat) (interactive cheatsheets)
+
 
 ## Text Editor
 
