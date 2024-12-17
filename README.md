@@ -34,6 +34,9 @@ Config files for the shell and terminal apps
 - [fd](https://github.com/sharkdp/fd) (fast and user-friendly `find`)
 - [fzf](https://github.com/junegunn/fzf) (fuzzy finder; used by zoxide)
 
+### Text Processing
+
+- [delta](https://github.com/dandavison/delta) (modern `diff` command)
 
 ## Text Editor
 
