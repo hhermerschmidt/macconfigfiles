@@ -43,6 +43,10 @@ Config files for the shell and terminal apps
 - [tldr](https://github.com/tldr-pages/tldr) (improved `man` pages)
 - [cheat](https://github.com/cheat/cheat) (interactive cheatsheets)
 
+### Benchmarking
+
+- [hyperfine](https://github.com/sharkdp/hyperfine) (command-line benchmarking tool)
+
 ### System Monitoring
 
 - [dust](https://github.com/bootandy/dust) (more intuitive `du`)
