@@ -20,6 +20,7 @@ Config files for the shell and terminal apps
 - [zoxide](https://github.com/ajeetdsouza/zoxide) (smarter `cd` command)
 - [fzf](https://github.com/junegunn/fzf) (fuzzy finder; used by zoxide)
 - [bat](https://github.com/sharkdp/bat) (`cat` with syntax highlighting and Git integration)
+- [fuck](https://github.com/nvbn/thefuck) (corrects typing errors)
 - [atuin](https://github.com/atuinsh/atuin) (magical shell history)
 
 ## Text Editor
