@@ -31,6 +31,7 @@ Config files for the shell and terminal apps
 ### Searching
 
 - [atuin](https://github.com/atuinsh/atuin) (magical shell history)
+- [fd](https://github.com/sharkdp/fd) (fast and user-friendly `find`)
 
 ## Text Editor
 
