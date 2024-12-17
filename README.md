@@ -38,6 +38,10 @@ Config files for the shell and terminal apps
 - [ripgrep](https://github.com/BurntSushi/ripgrep) (regex searcher)
 - [delta](https://github.com/dandavison/delta) (modern `diff` command)
 
+### Version Control
+
+- [lazygit](https://github.com/jesseduffield/lazygit) (`git` TUI)
+
 ### Getting Help
 
 - [tldr](https://github.com/tldr-pages/tldr) (improved `man` pages)
