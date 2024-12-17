@@ -39,6 +39,7 @@ Config files for the shell and terminal apps
 - [delta](https://github.com/dandavison/delta) (modern `diff` command)
 - [sd](https://github.com/chmln/sd) (modern `sed`)
 - [jq](https://github.com/jqlang/jq) (modern `json` processor)
+- [choose](https://github.com/theryangeary/choose) (modern alternative to `cut`)
 
 ### Version Control
 
