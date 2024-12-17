@@ -16,6 +16,7 @@ Config files for the shell and terminal apps
 
 - [ranger](https://github.com/ranger/ranger) (console file manager)
 - [eza](https://github.com/eza-community/eza) (modern `ls` command)
+- [lsd](https://github.com/lsd-rs/lsd)(next gen `ls` command)
 - [zoxide](https://github.com/ajeetdsouza/zoxide) (smarter `cd` command)
 - [fzf](https://github.com/junegunn/fzf) (fuzzy finder; used by zoxide)
 - [bat](https://github.com/sharkdp/bat) (`cat` with syntax highlighting and Git integration)
