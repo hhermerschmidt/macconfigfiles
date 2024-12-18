@@ -8,3 +8,5 @@ eval "$(atuin init zsh)"
 eval "$(thefuck --alias)"
 
 eval "$(zoxide init zsh)"
+
+eval "$(navi widget zsh)"

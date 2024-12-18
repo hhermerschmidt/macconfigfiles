@@ -49,6 +49,7 @@ Config files for the shell and terminal apps
 
 - [tldr](https://github.com/tldr-pages/tldr) (improved `man` pages)
 - [cheat](https://github.com/cheat/cheat) (interactive cheatsheets)
+- [navi](https://github.com/denisidoro/navi) (interactive cheatsheets)
 
 ### Benchmarking
 
