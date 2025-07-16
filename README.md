@@ -49,6 +49,10 @@ Config files for the shell and terminal apps
 
 - [lazygit](https://github.com/jesseduffield/lazygit) (`git` TUI)
 
+### Task Runner
+
+- [just](https://github.com/casey/just)
+
 ### Getting Help
 
 - [tldr](https://github.com/tldr-pages/tldr) (improved `man` pages)
