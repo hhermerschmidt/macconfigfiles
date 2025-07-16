@@ -1,6 +1,16 @@
 source ~/.config/fzf/key-bindings.zsh
 source ~/.config/fzf/completion.zsh
 
+_fzf_comprun() {
+  local command=$1
+  shift
+
+  case "$command" in
+    cd)           fzf "$@" --preview 'tree -C -L 2 {} | head -200' ;;
+    *)            fzf "$@" ;;
+  esac
+}
+
 source ~/.config/broot/launcher/bash/br
 
 [ ! -f "$HOME/.x-cmd.root/X" ] || . "$HOME/.x-cmd.root/X"

@@ -7,4 +7,5 @@ alias cd="z"
 
 alias cat="bat"
 
-alias  fvim='vim $(fzf --preview="bat --color=always --theme=OneHalfDark --style=numbers {}")'
+alias fzfp="fzf --preview 'bat --style=numbers --color=always --line-range :500 {}'"
+alias fvim='vim $(fzf --preview="bat --color=always --theme=OneHalfDark --style=numbers {}")'

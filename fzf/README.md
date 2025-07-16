@@ -19,3 +19,5 @@ source ~/.config/fzf/completion.zsh
 
 alias  fvim='vim $(fzf --preview="bat --color=always --theme=OneHalfDark --style=numbers {}")'
 ```
+
+- [Useful fzf shortcuts](https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal/)
