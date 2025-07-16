@@ -30,6 +30,7 @@ Config files for the shell and terminal apps
 - [lsd](https://github.com/lsd-rs/lsd)(next gen `ls` command)
 - [zoxide](https://github.com/ajeetdsouza/zoxide) (smarter `cd` command)
 - [bat](https://github.com/sharkdp/bat) (`cat` with syntax highlighting and Git integration)
+- [bat-extras](https://github.com/eth-p/bat-extras) (integrate `bat` with various command line tools)
 - [fuck](https://github.com/nvbn/thefuck) (corrects typing errors)
 - [broot](https://github.com/Canop/broot) (modern `tree` command)
 
