@@ -89,6 +89,12 @@ Config files for the shell and terminal apps
 - [neovim](https://neovim.io)
 - [zed](https://zed.dev)
 
+## Package Manager
+
+- [MacPorts](https://www.macports.org)
+- [Homebrew](https://brew.sh)
+- [Mamba](https://github.com/mamba-org/mamba)
+
 ## References
 
 - [Modern Unix Tools](https://github.com/ibraheemdev/modern-unix)
