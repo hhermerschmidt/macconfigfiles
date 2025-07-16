@@ -72,6 +72,9 @@ Config files for the shell and terminal apps
 - [gping](https://github.com/orf/gping) (ping with a graph)
 - [doggo](https://github.com/mr-karan/doggo) (modern command-line DNS client)
 
+### Command-Line Toolkit
+
+- [x-cmd](https://www.x-cmd.com)
 
 ## Text Editor
 
