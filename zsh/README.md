@@ -2,6 +2,10 @@
 
 Z shell
 
+- [A guide to the terminal, console and shell](https://thevaluable.dev/guide-terminal-shell-console/)
+- [A guide to the zsh completion](https://thevaluable.dev/zsh-completion-guide-examples/)
+- [Using zsh without omz](https://dev.to/hbenvenutti/using-zsh-without-omz-4gch)
+
 ## Oh My ZSH
 
 - [Oh My Zsh](https://ohmyz.sh) is a framework for managing the zsh configuration (via [themes](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes) and [plugins](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins)).
