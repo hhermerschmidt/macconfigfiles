@@ -94,6 +94,7 @@ Config files for the shell and terminal apps
 - [MacPorts](https://www.macports.org)
 - [Homebrew](https://brew.sh)
 - [Mamba](https://github.com/mamba-org/mamba)
+- [pixi](https://prefix.dev) (dev package manager, multi-language support)
 
 ## References
 

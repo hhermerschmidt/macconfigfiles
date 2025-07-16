@@ -32,6 +32,8 @@ if [ -f "/Users/henning/miniforge3/etc/profile.d/mamba.sh" ]; then
 fi
 # <<< conda initialize <<<
 
+export PATH="/Users/henning/.pixi/bin:$PATH"
+
 eval "$(atuin init zsh)"
 eval "$(thefuck --alias)"
 eval "$(zoxide init zsh)"
