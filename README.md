@@ -67,6 +67,12 @@ Config files for the shell and terminal apps
 - [glances](https://github.com/nicolargo/glances) (system monitoring tool)
 - [procs](https://github.com/dalance/procs) (modern `ps`)
 
+### Networking
+
+- [gping](https://github.com/orf/gping) (ping with a graph)
+- [doggo](https://github.com/mr-karan/doggo) (modern command-line DNS client)
+
+
 ## Text Editor
 
 - [vim](https://github.com/vim/vim)
