@@ -47,6 +47,7 @@ Config files for the shell and terminal apps
 - [sd](https://github.com/chmln/sd) (modern `sed`)
 - [jq](https://github.com/jqlang/jq) (modern `json` processor)
 - [choose](https://github.com/theryangeary/choose) (modern alternative to `cut`)
+- [miller](https://github.com/johnkerl/miller) (awk, sed, cut, join, sort for CSV, JSON etc.)
 
 ### Version Control
 
