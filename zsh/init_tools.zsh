@@ -3,6 +3,8 @@ source ~/.config/fzf/completion.zsh
 
 source ~/.config/broot/launcher/bash/br
 
+[ ! -f "$HOME/.x-cmd.root/X" ] || . "$HOME/.x-cmd.root/X"
+
 eval "$(atuin init zsh)"
 
 eval "$(thefuck --alias)"
