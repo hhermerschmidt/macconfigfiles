@@ -43,6 +43,7 @@ Config files for the shell and terminal apps
 
 - [ripgrep](https://github.com/BurntSushi/ripgrep) (regex searcher)
 - [delta](https://github.com/dandavison/delta) (modern `diff` command)
+- [diffnav](https://github.com/dlvhdr/diffnav) (git diff pager based on delta)
 - [sd](https://github.com/chmln/sd) (modern `sed`)
 - [jq](https://github.com/jqlang/jq) (modern `json` processor)
 - [choose](https://github.com/theryangeary/choose) (modern alternative to `cut`)
