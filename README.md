@@ -2,15 +2,19 @@
 
 Config files for the shell and terminal apps
 
-## Shell
-
-- [zsh](https://en.wikipedia.org/wiki/Z_shell)
-- [oh my zsh](https://github.com/ohmyzsh/ohmyzsh)
-
 ## Terminal
 
 - [iTerm2](https://iterm2.com)
 - [Warp](https://www.warp.dev)
+- [kitty](https://sw.kovidgoyal.net/kitty/)
+- [Ghostty](https://ghostty.org)
+- [WezTerm](https://wezterm.org)
+
+## Shell
+
+- [zsh](https://en.wikipedia.org/wiki/Z_shell)
+- [oh my zsh](https://github.com/ohmyzsh/ohmyzsh) (zsh configuration manager)
+- [starship](https://github.com/starship/starship) (customizable shell prompt)
 
 ## Command Line Tools
 
