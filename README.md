@@ -21,6 +21,7 @@ Config files for the shell and terminal apps
 ### File Manager
 
 - [ranger](https://github.com/ranger/ranger) (console file manager)
+- [Yazi](https://github.com/sxyazi/yazi)
 
 ### Basic Commands
 
