@@ -22,6 +22,7 @@ Config files for the shell and terminal apps
 
 - [ranger](https://github.com/ranger/ranger) (console file manager)
 - [Yazi](https://github.com/sxyazi/yazi)
+- [superfile](https://github.com/yorukot/superfile?tab=readme-ov-file)
 
 ### Basic Commands
 
