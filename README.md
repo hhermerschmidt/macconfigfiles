@@ -2,7 +2,7 @@
 
 Config files for the shell and terminal apps
 
-## Terminal
+## Terminal Emulators
 
 - [iTerm2](https://iterm2.com)
 - [Warp](https://www.warp.dev)
