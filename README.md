@@ -57,6 +57,7 @@ Config files for the shell and terminal apps
 ### Task Runner
 
 - [just](https://github.com/casey/just)
+- [watchexec](https://github.com/watchexec/watchexec)
 
 ### Getting Help
 
